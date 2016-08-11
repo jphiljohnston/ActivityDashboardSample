@@ -5,7 +5,7 @@ Files included in this repository:
 * GadgetsSampleSyntax.xml
   * This xml file may be imported into a Gadgets folder under an Activity Company Administration folder.
   * After importing into the Gadgets folder, permissions may need to be set to control which Activity Users should see this sample gadget.
-* ScreenShot.pnp
+* ScreenShot.jpg
   * Image file of the "Sample Gadget Syntax" dashboard gadget running on a Demo company database
 * Readme.md
   * This file
