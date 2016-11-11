@@ -10,4 +10,4 @@ Files included in this repository:
 * Readme.md
   * This file
 
-The purpose of this gadget is to provide a working example of Adctivity Dashboard Gadget actions that are commonly desired. Then by examining the syntax of this gadget, copies could be made and modify to the actual purposes desired.
+The purpose of this gadget is to provide a working example of Activity Dashboard Gadget actions that are commonly desired. Then by examining the syntax of this gadget, copies could be made and modify to the actual purposes desired.
